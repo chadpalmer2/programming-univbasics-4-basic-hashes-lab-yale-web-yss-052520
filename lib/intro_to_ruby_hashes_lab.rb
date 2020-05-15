@@ -4,7 +4,7 @@ end
 
 def my_hash
   {
-    name: Chad,
+    name: "Chad",
     age: 20
   }
 end
